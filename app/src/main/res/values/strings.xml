@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">咩噗记账</string>
+    <string name="edit_name">记一笔...</string>
+    <string name="month_out">本月指出</string>
+    <string name="month_in">本月收入</string>
+    <string name="budget">预算剩余</string>
+    <string name="view_table_analysis">查看表格分析</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
